@@ -18,7 +18,8 @@
   - etc.
 - Security
 - Learning Curve
-- Documentation
+- Documentation  
+
 **추가 가능**
 
 ## 신청 방법 (모집중)
